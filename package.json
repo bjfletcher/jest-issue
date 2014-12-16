@@ -1,0 +1,17 @@
+{
+  "name": "jest-issue",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "prestart": "npm install",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.10.0"
+  },
+  "devDependencies": {
+    "jest": "^0.1.37"
+  }
+}
